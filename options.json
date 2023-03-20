@@ -1,0 +1,1 @@
+{"model1": "Anything-V3.0-DBStallion-50.safetensors", "model2": "grapeGapeAndInsertio_2.safetensors", "alpha": "0.3", "without_vae": "no", "device": "cpu", "output": "Anything-V3.0-DBStallion-Grape", "safetensor": "yes"}
